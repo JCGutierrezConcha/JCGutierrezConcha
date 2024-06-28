@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hola, mi nombre es Juan Carlos Gutiérrez Concha 👋
 
-Hola, soy Juan Carlos Gutiérrez Concha, ingeniero civil industrial de la Universidad de Chile y tengo formación como científico de datos en Academia Desafío Latam.
+Obtuve el título de ingeniero civil industrial en la Universidad de Chile y tengo formación como científico de datos en Academia Desafío Latam.
 
 Dispongo de competencias para programar en Python y manejar el stack de data science (numpy, pandas, matplotlib, scikit-learn, tensorflow) y bases de datos (postgreSQL)
 
