@@ -6,7 +6,7 @@ Dispongo de competencias para programar en Python y manejar el stack de data sci
 
 Me apasiona idear y generar soluciones, utilizando grandes cantidades de datos, que aporten valor a los clientes y que abran nuevas oportunidades de negocio para las empresas involucradas. Eso me ha motivado a hacer una re-invención de mi carrera, dirigiéndola hacia la ciencia de datos.
 
-Además, cuento con una reciente formación como desarrollador full stack con JavaScript realizada en el marco del programa Talento Digital, siendo capaz de desarrollar interfaces dinámicas y con las mejores prácticas de la industria en cuanto a seguridad y funcionalidad de las aplicaciones
+Además, cuento con una reciente formación como desarrollador full stack con JavaScript, realizada en el marco del programa Talento Digital, siendo capaz de desarrollar interfaces dinámicas y con las mejores prácticas de la industria en cuanto a seguridad y funcionalidad de las aplicaciones
 
 Tambien puedo hacer un aporte en la planificación y gestión de proyectos y la generación de ambientes que promuevan el trabajo en equipo, considerando mi experiencia de más de 20 años como ingeniero civil industrial.
 
