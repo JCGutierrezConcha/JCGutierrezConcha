@@ -2,7 +2,7 @@
 
 Hola, soy Juan Carlos Gutiérrez Concha, ingeniero civil industrial de la Universidad de Chile y tengo formación como científico de datos en Academia Desafío Latam.
 
-Soy capaz de programar Python y manejar el stack de data science (numpy, pandas, matplotlib, scikit-learn, tensorflow) y bases de datos (postgreSQL)
+Dispongo de competencias para programar en Python y manejar el stack de data science (numpy, pandas, matplotlib, scikit-learn, tensorflow) y bases de datos (postgreSQL)
 
 Me apasiona idear y generar soluciones, utilizando grandes cantidades de datos, que aporten valor a los clientes y que abran nuevas oportunidades de negocio para las empresas involucradas. Eso me ha motivado a hacer una re-invención de mi carrera, dirigiéndola hacia la ciencia de datos.
 
