@@ -2,7 +2,7 @@
 
 Hola, soy Juan Carlos Gutiérrez Concha, ingeniero civil industrial de la Universidad de Chile y tengo formación como científico de datos en Academia Desafío Latam.
 
-Tengo conocimientos de programación en Python y el stack de data science (numpy, pandas, matplotlib, scikit-learn, tensorflow) y de bases de datos (postgreSQL)
+Soy capaz de programar Python y manejar el stack de data science (numpy, pandas, matplotlib, scikit-learn, tensorflow) y bases de datos (postgreSQL)
 
 Me apasiona idear y generar soluciones, utilizando grandes cantidades de datos, que aporten valor a los clientes y que abran nuevas oportunidades de negocio para las empresas involucradas. Eso me ha motivado a hacer una re-invención de mi carrera, dirigiéndola hacia la ciencia de datos.
 
@@ -12,6 +12,13 @@ Tambien puedo hacer un aporte en la planificación y gestión de proyectos y la 
 
 Si te interesa contactarme, puedes hacerlo a través de mi [LinkedIn](https://www.linkedin.com/in/juan-carlos-gutierrez-concha/).
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
@@ -20,9 +27,6 @@ Si te interesa contactarme, puedes hacerlo a través de mi [LinkedIn](https://ww
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/Handlebars%20js-f0772b?style=plastic&logo=handlebarsdotjs&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white)
-
-
-
 
 
 <!--
