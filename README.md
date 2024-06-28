@@ -8,7 +8,7 @@ Me apasiona idear y generar soluciones, utilizando grandes cantidades de datos, 
 
 Además, cuento con una reciente formación como desarrollador full stack con JavaScript realizada en el marco del programa Talento Digital, siendo capaz de desarrollar interfaces dinámicas y con las mejores prácticas de la industria en cuanto a seguridad y funcionalidad de las aplicaciones
 
-Tambien puedo hacer un aporte en la planificación y gestión de proyectos y la generación de ambientes propicios para un buen trabajo en equipo, considerando mi experiencia de más de 20 años como ingeniero civil industrial.
+Tambien puedo hacer un aporte en la planificación y gestión de proyectos y la generación de ambientes que promuevan el trabajo en equipo, considerando mi experiencia de más de 20 años como ingeniero civil industrial.
 
 Si te interesa contactarme, puedes hacerlo a través de mi [LinkedIn](https://www.linkedin.com/in/juan-carlos-gutierrez-concha/).
 
