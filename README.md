@@ -4,7 +4,7 @@ Obtuve el título de ingeniero civil industrial en la Universidad de Chile y ten
 
 Dispongo de competencias para programar en Python y manejar el stack de data science (numpy, pandas, matplotlib, scikit-learn, tensorflow) y bases de datos (postgreSQL)
 
-Me interesa idear y generar soluciones, utilizando grandes cantidades de datos, que aporten valor a los clientes y que abran nuevas oportunidades de negocio para las empresas involucradas, eso meha llevado a trabajar en temátcas de ciencia de datos.
+Me interesa idear y generar soluciones, utilizando grandes cantidades de datos, que aporten valor a los clientes y que abran nuevas oportunidades de negocio para las empresas involucradas, eso me ha impulsado a trabajar en temáticas de ciencia de datos.
 
 Además, cuento con una reciente formación como desarrollador full stack con JavaScript, realizada en el marco del programa Talento Digital, siendo capaz de desarrollar interfaces dinámicas y con las mejores prácticas de la industria en cuanto a seguridad y funcionalidad de las aplicaciones
 
