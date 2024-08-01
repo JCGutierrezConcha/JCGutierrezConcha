@@ -10,7 +10,7 @@ Además, cuento con una reciente formación como desarrollador full stack con Ja
 
 Tambien puedo hacer un aporte en la planificación y gestión de proyectos y la generación de ambientes que promuevan el trabajo en equipo, considerando mi experiencia de más de 20 años como ingeniero civil industrial.
 
-Si te interesa contactarme, puedes hacerlo a través de mi [LinkedIn](https://www.linkedin.com/in/juan-carlos-gutierrez-concha/).
+Si te interesa contactarme, puedes hacerlo a través de mi [LinkedIn](https://www.linkedin.com/in/juan-carlos-gutierrez-concha/) o mi mail jc.gutierrez.concha@gmail.com.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
