@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Juan Carlos Gutiérrez Concha 👋
 
-Obtuve el título de ingeniero civil industrial en la Universidad de Chile y tengo formación como científico de datos en Academia Desafío Latam. C(ACE) en Google Cloud Platform.
+Obtuve el título de ingeniero civil industrial en la Universidad de Chile y tengo formación como científico de datos en Academia Desafío Latam. Cuento con certificación como Associate Cloud Engineer (ACE) en Google Cloud Platform.
 
 Dispongo de competencias para programar en Python y manejar el stack de data science (numpy, pandas, matplotlib, scikit-learn, tensorflow) y bases de datos (postgreSQL)
 
